@@ -1,5 +1,5 @@
 # Use official Node.js runtime as base image
-FROM node:18-alpine
+FROM node:18-this-is-a-fake-tag
 
 # Set working directory in container
 WORKDIR /app
